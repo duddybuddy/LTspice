@@ -1,4 +1,4 @@
-clean untracked files from repo: git clean -f -x
+clean untracked files from local repo: git clean -f -x
 
 "C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe" -Run -b Battery\ ChargeDischarge.asc - Runs LTSpice from the command line
 
